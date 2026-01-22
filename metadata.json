@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Arnn Group Corporate Portfolio",
+  "description": "A high-end, modern corporate landing page for Arnn Group, featuring a dynamic business sector accordion and AI-powered industry insights using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
